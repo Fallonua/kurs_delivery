@@ -1,0 +1,11 @@
+delivery\model\DeliveryInfo.class
+delivery\transport\TDeliveryVan.class
+delivery\transport\TCourier.class
+delivery\model\Point.class
+delivery\ui\DeliveryController.class
+delivery\transport\TSortingCenter.class
+delivery\model\Status.class
+delivery\model\PackageStatus.class
+delivery\model\TPackage.class
+delivery\ui\DeliveryApp.class
+delivery\transport\TTransportUnit.class
