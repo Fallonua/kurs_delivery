@@ -77,4 +77,4 @@
 ## Источники и справочники
 1. JavaFX Documentation — https://openjfx.io/
 2. Maven — https://maven.apache.org/
-3. 1. Учебные материалы курса по ООП
+3. Учебные материалы курса по ООП
